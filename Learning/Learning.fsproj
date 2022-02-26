@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="CadeiaCaracteres.fs" />
+    <Compile Include="Tipos.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
